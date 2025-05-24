@@ -1,0 +1,6 @@
+abc_xml_converter
+logging
+os
+shutil
+
+git+https://github.com/your-repo/abc_xml_converter.git#egg=abc_xml_converter

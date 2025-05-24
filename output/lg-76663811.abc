@@ -1,0 +1,54 @@
+X:1
+T:Für Elise
+C:Ludwig van Beethoven
+Z:OpenScore (CC0)
+%%score { 1 | 2 }
+L:1/16
+Q:1/4=72
+M:3/8
+I:linebreak $
+K:C
+V:1 treble nm="Piano" snm="Pno."
+V:2 bass 
+V:1
+|:"^Poco moto"!pp! e^d | e^deB=dc | A2 z CEA | B2 z E^GB | c2 z Ee^d | e^deB=dc |$ A2 z CEA | %7
+ B2 z EcB |1 A4 :|2 A2 z Bcd |: e3 Gfe | d3 Fed | c3 Edc |$ B2 z Ee z | z ee' z2 ^d | e2 z ^ded | %16
+ e^deB=dc | A2 z CEA | B2 z E^GB |$ c2 z Ee^d | e^deB=dc | A2 z CEA | B2 z DcB |1 A2 z Bcd :|2 %24
+ A2 z [Ec][Fc][EGc] ||${FA} c4 f>e | (e2d2) _b>a | (agfedc) | _B2A2{B} A/G/A/B/ | c4 d^d | %30
+ e3 efA |$ c4 d>B | c/g/G/g/ A/g/B/g/ c/g/d/g/ | e/g/c'/b/ a/g/f/e/ d/g/f/d/ | %34
+ c/g/G/g/ A/g/B/g/ c/g/e/g/ |$ e/g/c'/b/ a/g/f/e/ d/g/f/d/ | d/f/e/^d/ e/B/e/d/ e/B/e/d/ | %37
+ e3 Be^d | e3 (Be) (^d | e) (^de) (de) (d |$ e)^deB=dc | A2 z CEA | B2 z E^GB | c2 z Ee^d | %44
+ e^deB=dc | A2 z CEA |$ B2 z DcB | A2 z Bcd | e3 Gfe | d3 Fed | c3 Edc | B2 z (Ee) z | %52
+ z (ee') z2 (^d |$ e) z2 ^ded | e^deB=dc | A2 z CEA | B2 z E^GB | c2 z Ee^d | e^deB=dc |$ %59
+ A2 z CEA | B2 z DcB | A2 z2 z2 | [EG_B^c]6 | [FAd]4 [^ce][df] | [^Gdf]4 [Gdf]2 | [Ace]6 | %66
+ [Fd]4 [Ec][DB] | [C^FA]4 [CA]2 |$ [CA]2[Ec]2[DB]2 | [CA]6 | [EG_B^c]6 | [FAd]4 [^ce][df] | %72
+ [df]4 [df]2 | [df]6 | [G_e]4 [Fd][_Ec] | [DF_B]4 [DFA]2 | [DF^G]4 [DFG]2 |$ [CEA]4 z2 | %78
+ [EB]2 z2 z2 |!pp! (3A,CE (3Ace (3dcB | (3Ace (3ac'e' (3d'c'b | %81
+!8va(! (3ac'e' (3a'c''e'' (3d''c''b' |$ (3_b'a'^g' (3=g'!8va)!^f'=f' (3e'^d'=d' | %83
+ (3^c'=c'b (3_ba^g (3=g^f=f | e^deB=dc | A2 z CEA |$ B2 z E^GB | c2 z Ee^d | e^deB=dc | A2 z CEA | %90
+ B2 z DcB | A2 z Bcd | e3 Gfe |$ d3 Fed | c3 Edc | B2 z (Ee) z | z (ee') z2 (^d | e) z2 ^ded | %98
+ e^deB=dc | A2 z CEA |$ B2 z E^GB | c2 z Ee^d | e^deB=dc | A2 z CEA | B2 z DcB | A2 z2 |] %106
+V:2
+|: z2 | z6 |!ped! A,,E,A, z z2 |!ped! E,,!ped-up!E,^G, z z2 |!ped! A,,!ped-up!E,A, z z2 | z6 |$ %6
+!ped! A,,E,A, z z2!ped-up! |!ped! E,,!ped-up!E,^G, z z2 |1 A,,E,A, z :|2 A,,E,A, z z2 |: %10
+!ped! C,G,C z z2!ped-up! |!ped! G,,!ped-up!G,B, z z2 |!ped! A,,!ped-up!E,A, z z2 |$ %13
+ E,,E,E z2[K:treble] (E |e) z2 ^de z | z ^de z z2 | z6 |[K:bass]!ped! A,,E,A, z z2!ped-up! | %18
+!ped! E,,!ped-up!E,^G, z z2 |$!ped! A,,!ped-up!E,A, z z2 | z6 |!ped! A,,E,A, z z2!ped-up! | %22
+!ped! E,,!ped-up!E,^G, z z2 |1 A,,E,A, z z2 :|2 A,,E,A, [_B,C][A,C][G,B,C] ||$ F,A,CA,CA, | %26
+ F,_B,DB,DB, | F,E[F,G,_B,]E[F,G,B,]E | F,A,CA,CA, | F,A,CA,CA, | E,A,CA,[D,D]F, |$ G,EG,FG,F | %32
+[K:treble] [CE]2 z [FG][EG][DFG] | [CEG]2[K:bass] [F,A,]2[G,B,]2 |[K:treble] C2 z [FG][EG][DFG] |$ %35
+ [CE]2[K:bass] [F,A,]2[G,B,]2 | [^G,B,]2 z2 z2 | z6 | z6 | z6 |$ z6 | A,,E,A, z z2 | %42
+!ped! E,,E,^G, z z2!ped-up! |!ped! A,,!ped-up!E,A, z z2 | z6 |!ped! A,,E,A, z z2!ped-up! |$ %46
+!ped! E,,!ped-up!E,^G, z z2 | A,,E,A, z z2 |!ped! C,G,C z z2!ped-up! | G,,G,B, z z2 | %50
+ A,,E,A, z z2 |!ped! E,,E,E z2[K:treble] (E!ped-up! |e) z2 (^de) z |$ z (^de) z z2 | z6 | %55
+[K:bass] A,,E,A, z z2 | E,,E,^G, z z2 | A,,E,A, z z2 | z6 |$ A,,E,A, z z2 | E,,E,^G, z z2 | %61
+ !//!A,,6 | !//!A,,6 | !//!A,,6 | !//!A,,6 | !//!A,,6 | [D,,A,,]6 | [^D,,A,,]6 |$ %68
+ !//![E,,A,,]4 [E,,^G,,][E,,G,,] | [A,,,A,,]A,, !//!A,,4 | !//!A,,6 | !//!A,,6 | !//!A,,6 | %73
+ !//!_B,,6 | !//!_B,,6 | !//!_B,,6 | !//!B,,6 |$ C,4 z2 | [E,^G,]2 z2 z2 | %79
+!ped! A,,,2 z2 [A,CE]2!ped-up! | [A,CE]2 z2 [A,CE]2 | [A,CE]2 z2 [A,CE]2 |$ [A,CE]2 z2 z2 | %83
+ z2 z2 z2 | z6 |!ped! A,,E,A, z z2!ped-up! |$!ped! E,,!ped-up!E,^G, z z2 | %87
+!ped! A,,!ped-up!E,A, z z2 | z6 |!ped! A,,E,A, z z2!ped-up! |!ped! E,,!ped-up!E,^G, z z2 | %91
+ A,,E,A, z z2 |!ped! C,G,C z z2!ped-up! |$!ped! G,,!ped-up!G,B, z z2 |!ped! A,,!ped-up!E,A, z z2 | %95
+!ped! (E,,!ped-up!E,E) z2[K:treble] (E |e) z2 ^de z | z ^de z z2 | z6 | %99
+[K:bass]!ped! A,,E,A, z z2!ped-up! |$!ped! E,,!ped-up!E,^G, z z2 |!ped! A,,!ped-up!E,A, z z2 | z6 | %103
+!ped! A,,E,A, z z2!ped-up! |!ped! E,,!ped-up!E,^G, z z2 | [A,,,A,,]2 z2 |] %106
