@@ -7,7 +7,7 @@ import shutil
 # Настройка логгирования
 logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
 
-# Учимся работать с пулл реквестами
+# Учимся работать с пулл  реквестами
 # Пути к папкам
 INPUT_DIR = 'input'
 OUTPUT_DIR = 'output'
